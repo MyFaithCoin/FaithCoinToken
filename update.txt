@@ -7,7 +7,8 @@ Created 28 Dec 2017
 Please note that this contract is no longer valid. We created the new contract to make the token more secure 
 and we also eliminate some of the unnecessary non payable lines on our contract. 
 Making it a bit more cheaper for gas calculation. We also added an embedded airdroper code within the contract
-to make it easier for us to airdrop the tokens. All of the people who contribute and bought the token with the old contract(0x962bB1CD4724e9e7cbcA9723FA7e5EE5A9483435) got their token with the new smart contract already. 
+to make it easier for us to airdrop the tokens. All of the people who contribute and bought the token with the 
+old contract(0x962bB1CD4724e9e7cbcA9723FA7e5EE5A9483435) got their token with the new smart contract already. 
 And all the tokens from the old contract has been burned by sending it to a lock address.
 
 
